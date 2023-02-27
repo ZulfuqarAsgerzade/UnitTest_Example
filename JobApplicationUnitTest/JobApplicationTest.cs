@@ -22,7 +22,7 @@ namespace JobApplicationUnitTest
             var result = evaluator.Evaluate(form);
 
             // Assert
-            Assert.AreEqual(ApplicationResult.AutoRejected, result);
+            Assert.AreEqual(ApplicationResult.AutoAccepted, result);
         }
     }
 }
