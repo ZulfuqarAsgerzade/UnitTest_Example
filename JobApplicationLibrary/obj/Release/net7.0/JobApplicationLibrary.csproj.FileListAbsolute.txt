@@ -1,0 +1,12 @@
+C:\Users\Zulfugarka\source\repos\JobApplication\JobApplicationLibrary\bin\Release\net7.0\JobApplicationLibrary.deps.json
+C:\Users\Zulfugarka\source\repos\JobApplication\JobApplicationLibrary\bin\Release\net7.0\JobApplicationLibrary.dll
+C:\Users\Zulfugarka\source\repos\JobApplication\JobApplicationLibrary\bin\Release\net7.0\JobApplicationLibrary.pdb
+C:\Users\Zulfugarka\source\repos\JobApplication\JobApplicationLibrary\obj\Release\net7.0\JobApplicationLibrary.csproj.AssemblyReference.cache
+C:\Users\Zulfugarka\source\repos\JobApplication\JobApplicationLibrary\obj\Release\net7.0\JobApplicationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zulfugarka\source\repos\JobApplication\JobApplicationLibrary\obj\Release\net7.0\JobApplicationLibrary.AssemblyInfoInputs.cache
+C:\Users\Zulfugarka\source\repos\JobApplication\JobApplicationLibrary\obj\Release\net7.0\JobApplicationLibrary.AssemblyInfo.cs
+C:\Users\Zulfugarka\source\repos\JobApplication\JobApplicationLibrary\obj\Release\net7.0\JobApplicationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Zulfugarka\source\repos\JobApplication\JobApplicationLibrary\obj\Release\net7.0\JobApplicationLibrary.dll
+C:\Users\Zulfugarka\source\repos\JobApplication\JobApplicationLibrary\obj\Release\net7.0\refint\JobApplicationLibrary.dll
+C:\Users\Zulfugarka\source\repos\JobApplication\JobApplicationLibrary\obj\Release\net7.0\JobApplicationLibrary.pdb
+C:\Users\Zulfugarka\source\repos\JobApplication\JobApplicationLibrary\obj\Release\net7.0\ref\JobApplicationLibrary.dll
